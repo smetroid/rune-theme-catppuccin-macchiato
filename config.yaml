@@ -1,0 +1,22 @@
+gui:
+  themes:
+    macchiato:
+      foreground: "#cad3f5" # text
+      background: "#24273a" # base
+      cursor: "#91d7e3" # sky
+      black: "#181926" # crust
+      gray: "#363a4f" # surface0
+      silver: "#6e738d" # overlay0
+      white: "#cad3f5" # text
+      red: "#287a8f" # dark teal
+      maroon: "#ee99a0" # maroon
+      olive: "#f5a97f" # peach
+      yellow: "#c4742e" # burnt orange
+      green: "#a6da95" # green
+      lime: "#a6da95" # green
+      teal: "#8bd5ca" # teal
+      aqua: "#91d7e3" # sky
+      blue: "#4a6fd0" # dark blue
+      navy: "#7dc4e4" # sapphire
+      purple: "#c6a0f6" # mauve
+      fuchsia: "#d7afff" # frost lavender
